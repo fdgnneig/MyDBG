@@ -1,0 +1,8 @@
+﻿  反汇编引擎测试.cpp
+e:\c源码\debugger demo\反汇编引擎测试\反汇编引擎测试.cpp(24): warning C4477: “scanf_s”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“ULONGLONG *”
+  e:\c源码\debugger demo\反汇编引擎测试\反汇编引擎测试.cpp(24): note: 请考虑在格式字符串中使用“%llx”
+  e:\c源码\debugger demo\反汇编引擎测试\反汇编引擎测试.cpp(24): note: 请考虑在格式字符串中使用“%I64x”
+e:\c源码\debugger demo\反汇编引擎测试\反汇编引擎测试.cpp(41): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  e:\c源码\debugger demo\反汇编引擎测试\反汇编引擎测试.cpp(41): note: 请考虑在格式字符串中使用“%llX”
+  e:\c源码\debugger demo\反汇编引擎测试\反汇编引擎测试.cpp(41): note: 请考虑在格式字符串中使用“%I64X”
+  反汇编引擎测试.vcxproj -> E:\c源码\debugger demo\Debug\反汇编引擎测试.exe

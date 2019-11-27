@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+e:\c源码\debugger demo\调试器插件\dllmain.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\debugger demo\调试器插件\dllmain.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\debugger demo\调试器插件\dllmain.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\debugger demo\调试器插件\dllmain.cpp(275): warning C4018: “<”: 有符号/无符号不匹配
+  调试器插件.cpp
+  正在生成代码...
+    正在创建库 E:\c源码\debugger demo\Debug\调试器插件.lib 和对象 E:\c源码\debugger demo\Debug\调试器插件.exp
+LINK : warning LNK4232: 名称 调试器插件.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  调试器插件.vcxproj -> E:\c源码\debugger demo\Debug\调试器插件.dll
